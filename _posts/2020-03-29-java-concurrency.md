@@ -1,9 +1,8 @@
 ---
 layout: post
-title: java concurrency
-tags: java concurrency
-categories: java concurrency
-
+title: Java concurrency
+tags: Java concurrency
+categories: Java concurrency
 ---
 
 # 基础概念
@@ -12,7 +11,7 @@ categories: java concurrency
 
 **进程**是一个可执行的程序，在windows下打开任务管理器，可以看到很多进程正在运行。
 
-![java-concurrency-exe][java-concurrency-exe]
+![java-concurrency-exe](java-concurrency-exe)
 
 **线程**，比如上面图片里的wechat进程，打开以后，你可以一边打字聊天，一边跟另一个人语音聊天。
 
